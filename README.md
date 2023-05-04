@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @pradeepkumarverma1
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Laravel and Vanilla Javascript
+- 💞️ I’m looking to collaborate on Laravel projects
+- 📫 How to reach me? Just shoot an email at: pradeep@newtan.xyz
+
+<!---
+pradeepkumarverma1/pradeepkumarverma1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
