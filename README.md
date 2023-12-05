@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeepkumarverma1
+- 👋 Hi, I’m Pradeep Kumar Verma.
 - 👀 I’m interested in Software development, Game Development, Ethical Hacking, and problem solving.
 - 💞️ I’m looking to collaborate on Laravel and Nextjs projects
 - 📫 How to reach me? Just shoot an email at: pradeep@newtan.xyz
